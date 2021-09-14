@@ -7,23 +7,19 @@ h1 {
   font-family: 'Dancing Script', cursive;
   font-size: 72px;
   color: #0ccac4;
-  text-align: center;
+  
 }
 
 h2{
   color: red;
-  text-align: center;
 }
 
 .search {
-  -webkit-appearance: none;
-  /* border: none;
-  outline: none; */
   padding: 10px;
   width: 150px;
   line-height: 30px;
   margin-bottom: 30px;
-  text-align: center;
+  /* text-align: center; */
   display: inline-block;
 }
 
